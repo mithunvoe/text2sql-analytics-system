@@ -27,7 +27,7 @@ def db_connection():
     
     db = DatabaseLayer(config)
     db.connect(as_admin=False)
-    yield db.connection
+    yield db.conn
     db.disconnect()
 
 
