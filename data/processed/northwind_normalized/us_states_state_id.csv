@@ -1,0 +1,52 @@
+state_id,state_region,state_abbr,state_name
+1,south,AL,Alabama
+2,north,AK,Alaska
+3,west,AZ,Arizona
+4,south,AR,Arkansas
+5,west,CA,California
+6,west,CO,Colorado
+7,east,CT,Connecticut
+8,east,DE,Delaware
+9,east,DC,District of Columbia
+10,south,FL,Florida
+11,south,GA,Georgia
+12,west,HI,Hawaii
+13,midwest,ID,Idaho
+14,midwest,IL,Illinois
+15,midwest,IN,Indiana
+16,midwest,IO,Iowa
+17,midwest,KS,Kansas
+18,south,KY,Kentucky
+19,south,LA,Louisiana
+20,north,ME,Maine
+21,east,MD,Maryland
+22,north,MA,Massachusetts
+23,north,MI,Michigan
+24,north,MN,Minnesota
+25,south,MS,Mississippi
+26,south,MO,Missouri
+27,west,MT,Montana
+28,midwest,NE,Nebraska
+29,west,NV,Nevada
+30,east,NH,New Hampshire
+31,east,NJ,New Jersey
+32,west,NM,New Mexico
+33,east,NY,New York
+34,east,NC,North Carolina
+35,midwest,ND,North Dakota
+36,midwest,OH,Ohio
+37,midwest,OK,Oklahoma
+38,west,OR,Oregon
+39,east,PA,Pennsylvania
+40,east,RI,Rhode Island
+41,east,SC,South Carolina
+42,midwest,SD,South Dakota
+43,midwest,TN,Tennessee
+44,west,TX,Texas
+45,west,UT,Utah
+46,east,VT,Vermont
+47,east,VA,Virginia
+48,west,WA,Washington
+49,south,WV,West Virginia
+50,midwest,WI,Wisconsin
+51,west,WY,Wyoming

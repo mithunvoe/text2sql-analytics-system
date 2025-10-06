@@ -1,0 +1,9 @@
+total_amount,quantity,product_price,product_id,product_name,product_category
+999.99,1.0,999.99,201,Laptop,Electronics
+59.98,2.0,29.99,202,Mouse,Electronics
+79.99,1.0,79.99,203,Keyboard,Electronics
+89.97,3.0,29.99,202,Mouse,Electronics
+299.99,1.0,299.99,204,Monitor,Electronics
+159.98,2.0,79.99,203,Keyboard,Electronics
+149.99,1.0,149.99,205,Headphones,Electronics
+599.98,2.0,299.99,204,Monitor,Electronics

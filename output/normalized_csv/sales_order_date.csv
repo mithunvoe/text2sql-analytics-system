@@ -1,0 +1,11 @@
+order_date,quantity,customer_city,customer_id,customer_name,order_id,payment_method,product_price,customer_email,total_amount,product_id,product_name,product_category
+2024-01-01,1.0,New York,101,Alice Johnson,1,Credit Card,999.99,alice@example.com,999.99,201,Laptop,Electronics
+2024-01-02,2.0,Los Angeles,102,Bob Smith,2,PayPal,29.99,bob@example.com,59.98,202,Mouse,Electronics
+2024-01-03,1.0,New York,101,Alice Johnson,3,Credit Card,79.99,Unknown,79.99,203,Keyboard,Electronics
+2024-01-04,1.0,Chicago,103,Charlie Brown,4,Debit Card,999.99,charlie@example.com,999.99,201,Laptop,Electronics
+2024-01-05,3.0,Los Angeles,102,Bob Smith,5,PayPal,29.99,bob@example.com,89.97,202,Mouse,Electronics
+2024-01-06,1.0,Houston,104,David Lee,6,Credit Card,299.99,david@example.com,299.99,204,Monitor,Electronics
+2024-01-07,2.0,New York,101,Alice Johnson,7,Credit Card,79.99,alice@example.com,159.98,203,Keyboard,Electronics
+2024-01-08,1.0,Chicago,103,Charlie Brown,8,PayPal,149.99,charlie@example.com,149.99,205,Headphones,Electronics
+2024-01-09,1.0,Phoenix,105,Eve Wilson,9,Credit Card,999.99,eve@example.com,999.99,201,Laptop,Electronics
+2024-01-10,2.0,Houston,104,David Lee,10,Debit Card,299.99,david@example.com,599.98,204,Monitor,Electronics

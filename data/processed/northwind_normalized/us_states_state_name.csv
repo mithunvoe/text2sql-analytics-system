@@ -1,0 +1,52 @@
+state_name,state_region,state_id,state_abbr
+Alabama,south,1,AL
+Alaska,north,2,AK
+Arizona,west,3,AZ
+Arkansas,south,4,AR
+California,west,5,CA
+Colorado,west,6,CO
+Connecticut,east,7,CT
+Delaware,east,8,DE
+District of Columbia,east,9,DC
+Florida,south,10,FL
+Georgia,south,11,GA
+Hawaii,west,12,HI
+Idaho,midwest,13,ID
+Illinois,midwest,14,IL
+Indiana,midwest,15,IN
+Iowa,midwest,16,IO
+Kansas,midwest,17,KS
+Kentucky,south,18,KY
+Louisiana,south,19,LA
+Maine,north,20,ME
+Maryland,east,21,MD
+Massachusetts,north,22,MA
+Michigan,north,23,MI
+Minnesota,north,24,MN
+Mississippi,south,25,MS
+Missouri,south,26,MO
+Montana,west,27,MT
+Nebraska,midwest,28,NE
+Nevada,west,29,NV
+New Hampshire,east,30,NH
+New Jersey,east,31,NJ
+New Mexico,west,32,NM
+New York,east,33,NY
+North Carolina,east,34,NC
+North Dakota,midwest,35,ND
+Ohio,midwest,36,OH
+Oklahoma,midwest,37,OK
+Oregon,west,38,OR
+Pennsylvania,east,39,PA
+Rhode Island,east,40,RI
+South Carolina,east,41,SC
+South Dakota,midwest,42,SD
+Tennessee,midwest,43,TN
+Texas,west,44,TX
+Utah,west,45,UT
+Vermont,east,46,VT
+Virginia,east,47,VA
+Washington,west,48,WA
+West Virginia,south,49,WV
+Wisconsin,midwest,50,WI
+Wyoming,west,51,WY

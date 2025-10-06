@@ -1,0 +1,30 @@
+supplier_id,company_name,country,phone,contact_title,contact_name,fax,address,city,homepage,postal_code,region
+1,Exotic Liquids,UK,(171) 555-2222,Purchasing Manager,Charlotte Cooper,(02) 555-4873,49 Gilbert St.,London,#CAJUN.HTM#,EC1 4SD,Québec
+2,New Orleans Cajun Delights,USA,(100) 555-4822,Order Administrator,Shelley Burke,(02) 555-4873,P.O. Box 78934,New Orleans,#CAJUN.HTM#,70117,LA
+3,Grandma Kelly's Homestead,USA,(313) 555-5735,Sales Representative,Regina Murphy,(313) 555-3349,707 Oxford Rd.,Ann Arbor,#CAJUN.HTM#,48104,MI
+4,Tokyo Traders,Japan,(03) 3555-5011,Marketing Manager,Yoshi Nagase,(02) 555-4873,9-8 Sekimai Musashino-shi,Tokyo,#CAJUN.HTM#,100,Québec
+5,Cooperativa de Quesos 'Las Cabras',Spain,(98) 598 76 54,Export Administrator,Antonio del Valle Saavedra,(02) 555-4873,Calle del Rosal 4,Oviedo,#CAJUN.HTM#,33007,Asturias
+6,Mayumi's,Japan,(06) 431-7877,Marketing Representative,Mayumi Ohno,(02) 555-4873,92 Setsuko Chuo-ku,Osaka,Mayumi's (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#,545,Québec
+7,"Pavlova, Ltd.",Australia,(03) 444-2343,Marketing Manager,Ian Devling,(03) 444-6588,74 Rose St. Moonie Ponds,Melbourne,#CAJUN.HTM#,3058,Victoria
+8,"Specialty Biscuits, Ltd.",UK,(161) 555-4448,Sales Representative,Peter Wilson,(02) 555-4873,29 King's Way,Manchester,#CAJUN.HTM#,M14 GSD,Québec
+9,PB Knäckebröd AB,Sweden,031-987 65 43,Sales Agent,Lars Peterson,031-987 65 91,Kaloadagatan 13,Göteborg,#CAJUN.HTM#,S-345 67,Québec
+10,Refrescos Americanas LTDA,Brazil,(11) 555 4640,Marketing Manager,Carlos Diaz,(02) 555-4873,Av. das Americanas 12.890,Sao Paulo,#CAJUN.HTM#,5442,Québec
+11,Heli Süßwaren GmbH & Co. KG,Germany,(010) 9984510,Sales Manager,Petra Winkler,(02) 555-4873,Tiergartenstraße 5,Berlin,#CAJUN.HTM#,10785,Québec
+12,Plutzer Lebensmittelgroßmärkte AG,Germany,(069) 992755,International Marketing Mgr.,Martin Bein,(02) 555-4873,Bogenallee 51,Frankfurt,Plutzer (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/plutzer.htm#,60439,Québec
+13,Nord-Ost-Fisch Handelsgesellschaft mbH,Germany,(04721) 8713,Coordinator Foreign Markets,Sven Petersen,(04721) 8714,Frahmredder 112a,Cuxhaven,#CAJUN.HTM#,27478,Québec
+14,Formaggi Fortini s.r.l.,Italy,(0544) 60323,Sales Representative,Elio Rossi,(0544) 60603,"Viale Dante, 75",Ravenna,#FORMAGGI.HTM#,48100,Québec
+15,Norske Meierier,Norway,(0)2-953010,Marketing Manager,Beate Vileid,(02) 555-4873,Hatlevegen 5,Sandvika,#CAJUN.HTM#,1320,Québec
+16,Bigfoot Breweries,USA,(503) 555-9931,Regional Account Rep.,Cheryl Saylor,(02) 555-4873,3400 - 8th Avenue Suite 210,Bend,#CAJUN.HTM#,97101,OR
+17,Svensk Sjöföda AB,Sweden,08-123 45 67,Sales Representative,Michael Björn,(02) 555-4873,Brovallavägen 231,Stockholm,#CAJUN.HTM#,S-123 45,Québec
+18,Aux joyeux ecclésiastiques,France,(1) 03.83.00.68,Sales Manager,Guylène Nodier,(1) 03.83.00.62,"203, Rue des Francs-Bourgeois",Paris,#CAJUN.HTM#,75004,Québec
+19,New England Seafood Cannery,USA,(617) 555-3267,Wholesale Account Agent,Robb Merchant,(617) 555-3389,Order Processing Dept. 2100 Paul Revere Blvd.,Boston,#CAJUN.HTM#,02134,MA
+20,Leka Trading,Singapore,555-8787,Owner,Chandra Leka,(02) 555-4873,"471 Serangoon Loop, Suite #402",Singapore,#CAJUN.HTM#,0512,Québec
+21,Lyngbysild,Denmark,43844108,Sales Manager,Niels Petersen,43844115,Lyngbysild Fiskebakken 10,Lyngby,#CAJUN.HTM#,2800,Québec
+22,Zaanse Snoepfabriek,Netherlands,(12345) 1212,Accounting Manager,Dirk Luchte,(12345) 1210,Verkoop Rijnweg 22,Zaandam,#CAJUN.HTM#,9999 ZZ,Québec
+23,Karkki Oy,Finland,(953) 10956,Product Manager,Anne Heikkonen,(02) 555-4873,Valtakatu 12,Lappeenranta,#CAJUN.HTM#,53120,Québec
+24,"G'day, Mate",Australia,(02) 555-5914,Sales Representative,Wendy Mackenzie,(02) 555-4873,170 Prince Edward Parade Hunter's Hill,Sydney,G'day Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#,2042,NSW
+25,Ma Maison,Canada,(514) 555-9022,Marketing Manager,Jean-Guy Lauzon,(02) 555-4873,2960 Rue St. Laurent,Montréal,#CAJUN.HTM#,H1J 1C3,Québec
+26,Pasta Buttini s.r.l.,Italy,(089) 6547665,Order Administrator,Giovanni Giudici,(089) 6547667,"Via dei Gelsomini, 153",Salerno,#CAJUN.HTM#,84100,Québec
+27,Escargots Nouveaux,France,85.57.00.07,Sales Manager,Marie Delamare,(02) 555-4873,"22, rue H. Voiron",Montceau,#CAJUN.HTM#,71300,Québec
+28,Gai pâturage,France,38.76.98.06,Sales Representative,Eliane Noz,38.76.98.58,"Bat. B 3, rue des Alpes",Annecy,#CAJUN.HTM#,74000,Québec
+29,Forêts d'érables,Canada,(514) 555-2955,Accounting Manager,Chantal Goulet,(514) 555-2921,148 rue Chasseur,Ste-Hyacinthe,#CAJUN.HTM#,J2S 7S8,Québec

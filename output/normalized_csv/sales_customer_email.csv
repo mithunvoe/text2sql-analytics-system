@@ -1,0 +1,7 @@
+customer_email,product_category,customer_id,customer_name,customer_city
+alice@example.com,Electronics,101,Alice Johnson,New York
+bob@example.com,Electronics,102,Bob Smith,Los Angeles
+Unknown,Electronics,101,Alice Johnson,New York
+charlie@example.com,Electronics,103,Charlie Brown,Chicago
+david@example.com,Electronics,104,David Lee,Houston
+eve@example.com,Electronics,105,Eve Wilson,Phoenix

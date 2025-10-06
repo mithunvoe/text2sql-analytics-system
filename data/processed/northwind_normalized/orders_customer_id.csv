@@ -1,0 +1,90 @@
+customer_id,ship_postal_code,ship_address,ship_region,ship_country,ship_city
+VINET,51100,59 rue de l'Abbaye,SP,France,Reims
+TOMSP,44087,Luisenstr. 48,SP,Germany,Münster
+HANAR,05454-876,"Rua do Paço, 67",RJ,Brazil,Rio de Janeiro
+VICTE,69004,"2, rue du Commerce",SP,France,Lyon
+SUPRD,B-6000,"Boulevard Tirou, 255",SP,Belgium,Charleroi
+CHOPS,3012,Hauptstr. 31,SP,Switzerland,Bern
+RICSU,1204,Starenweg 5,SP,Switzerland,Genève
+WELLI,08737-363,"Rua do Mercado, 12",SP,Brazil,Resende
+HILAA,5022,Carrera 22 con Ave. Carlos Soublette #8-35,Táchira,Venezuela,San Cristóbal
+ERNSH,8010,Kirchgasse 6,SP,Austria,Graz
+CENTC,05022,Sierras de Granada 9993,SP,Mexico,México D.F.
+OTTIK,50739,Mehrheimerstr. 369,SP,Germany,Köln
+QUEDE,02389-673,"Rua da Panificadora, 12",RJ,Brazil,Rio de Janeiro
+RATTC,87110,2817 Milton Dr.,NM,USA,Albuquerque
+FOLKO,S-844 67,Åkergatan 24,SP,Sweden,Bräcke
+BLONP,67000,"24, place Kléber",SP,France,Strasbourg
+WARTH,90110,Torikatu 38,SP,Finland,Oulu
+FRANK,80805,Berliner Platz 43,SP,Germany,München
+GROSR,1081,5ª Ave. Los Palos Grandes,DF,Venezuela,Caracas
+WHITC,98124,1029 - 12th Ave. S.,WA,USA,Seattle
+SPLIR,82520,P.O. Box 555,WY,USA,Lander
+QUICK,01307,Taucherstraße 10,SP,Germany,Cunewalde
+MAGAA,24100,Via Ludovico il Moro 22,SP,Italy,Bergamo
+TORTU,05033,Avda. Azteca 123,SP,Mexico,México D.F.
+MORGK,04179,Heerstr. 22,SP,Germany,Leipzig
+BERGS,S-958 22,Berguvsvägen  8,SP,Sweden,Luleå
+LEHMS,60528,Magazinweg 7,SP,Germany,Frankfurt a.M.
+ROMEY,28001,"Gran Vía, 1",SP,Spain,Madrid
+LILAS,3508,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Lara,Venezuela,Barquisimeto
+RICAR,02389-890,"Av. Copacabana, 267",RJ,Brazil,Rio de Janeiro
+REGGC,42100,Strada Provinciale 124,SP,Italy,Reggio Emilia
+BSBEV,EC2 5NT,Fauntleroy Circus,SP,UK,London
+COMMI,05432-043,"Av. dos Lusíadas, 23",SP,Brazil,Sao Paulo
+TRADH,05634-030,"Av. Inês de Castro, 414",SP,Brazil,Sao Paulo
+HUNGO,83720,8 Johnstown Road,Co. Cork,Ireland,Cork
+WANDK,70563,Adenauerallee 900,SP,Germany,Stuttgart
+GODOS,41101,"C/ Romero, 33",SP,Spain,Sevilla
+OLDWO,99508,2743 Bering St.,AK,USA,Anchorage
+LONEP,97219,89 Chiaroscuro Rd.,OR,USA,Portland
+ANATR,05021,Avda. de la Constitución 2222,SP,Mexico,México D.F.
+THEBI,97201,89 Jefferson Way Suite 2,OR,USA,Portland
+DUMON,44000,"67, rue des Cinquante Otages",SP,France,Nantes
+ISLAT,PO31 7PJ,Garden House Crowther Way,Isle of Wight,UK,Cowes
+PERIC,05033,Calle Dr. Jorge Cash 321,SP,Mexico,México D.F.
+KOENE,14776,Maubelstr. 90,SP,Germany,Brandenburg
+SAVEA,83720,187 Suffolk Ln.,ID,USA,Boise
+BOLID,28023,"C/ Araquil, 67",SP,Spain,Madrid
+FURIB,1675,Jardim das rosas n. 32,SP,Portugal,Lisboa
+BONAP,13008,"12, rue des Bouchers",SP,France,Marseille
+MEREP,H1J 1C3,43 rue St. Laurent,Québec,Canada,Montréal
+PRINI,1756,Estrada da saúde n. 58,SP,Portugal,Lisboa
+SIMOB,1734,Vinbæltet 34,SP,Denmark,Kobenhavn
+FAMIA,05442-030,"Rua Orós, 92",SP,Brazil,Sao Paulo
+LAMAI,31000,1 rue Alsace-Lorraine,SP,France,Toulouse
+PICCO,5020,Geislweg 14,SP,Austria,Salzburg
+AROUT,CO7 6JX,Brook Farm Stratford St. Mary,Essex,UK,Colchester
+SEVES,OX15 4NB,90 Wadhurst Rd.,SP,UK,London
+DRACD,52066,Walserweg 21,SP,Germany,Aachen
+EASTC,WX3 6FW,35 King George,SP,UK,London
+ANTON,05023,Mataderos  2312,SP,Mexico,México D.F.
+GALED,8022,"Rambla de Cataluña, 23",SP,Spain,Barcelona
+VAFFE,8200,Smagsloget 45,SP,Denmark,Århus
+QUEEN,05487-020,"Alameda dos Canàrios, 891",SP,Brazil,Sao Paulo
+WOLZA,01-012,ul. Filtrowa 68,SP,Poland,Warszawa
+HUNGC,97827,City Center Plaza 516 Main St.,OR,USA,Elgin
+SANTG,4110,Erling Skakkes gate 78,SP,Norway,Stavern
+BOTTM,T2F 8M4,23 Tsawassen Blvd.,BC,Canada,Tsawassen
+LINOD,4980,Ave. 5 de Mayo Porlamar,Nueva Esparta,Venezuela,I. de Margarita
+FOLIG,59000,"184, chaussée de Tournai",SP,France,Lille
+OCEAN,1010,Ing. Gustavo Moncada 8585 Piso 20-A,SP,Argentina,Buenos Aires
+FRANS,10100,Via Monte Bianco 34,SP,Italy,Torino
+GOURL,04876-786,"Av. Brasil, 442",SP,Brazil,Campinas
+CONSH,WX1 6LT,Berkeley Gardens 12  Brewery,SP,UK,London
+RANCH,1010,Av. del Libertador 900,SP,Argentina,Buenos Aires
+LAZYK,99362,12 Orchestra Terrace,WA,USA,Walla Walla
+LAUGB,V3F 2K1,2319 Elm St.,BC,Canada,Vancouver
+BLAUS,68306,Forsterstr. 57,SP,Germany,Mannheim
+NORTS,SW7 1RZ,South House 300 Queensbridge,SP,UK,London
+CACTU,1010,Cerrito 333,SP,Argentina,Buenos Aires
+GREAL,97403,2732 Baker Blvd.,OR,USA,Eugene
+MAISD,B-1180,Rue Joseph-Bens 532,SP,Belgium,Bruxelles
+TRAIH,98034,722 DaVinci Blvd.,WA,USA,Kirkland
+LETSS,94117,87 Polk St. Suite 5,CA,USA,San Francisco
+WILMK,21240,Keskuskatu 45,SP,Finland,Helsinki
+THECR,59801,55 Grizzly Peak Rd.,MT,USA,Butte
+ALFKI,12209,Obere Str. 57,SP,Germany,Berlin
+FRANR,44000,"54, rue Royale",SP,France,Nantes
+SPECD,75016,"25, rue Lauriston",SP,France,Paris
+LACOR,78000,"67, avenue de l'Europe",SP,France,Versailles

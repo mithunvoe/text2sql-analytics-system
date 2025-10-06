@@ -1,0 +1,11 @@
+order_id,order_date,customer_email,customer_city,total_amount,payment_method
+1,2024-01-01,alice@example.com,New York,999.99,Credit Card
+2,2024-01-02,bob@example.com,Los Angeles,59.98,PayPal
+3,2024-01-03,Unknown,New York,79.99,Credit Card
+4,2024-01-04,charlie@example.com,Chicago,999.99,Debit Card
+5,2024-01-05,bob@example.com,Los Angeles,89.97,PayPal
+6,2024-01-06,david@example.com,Houston,299.99,Credit Card
+7,2024-01-07,alice@example.com,New York,159.98,Credit Card
+8,2024-01-08,charlie@example.com,Chicago,149.99,PayPal
+9,2024-01-09,eve@example.com,Phoenix,999.99,Credit Card
+10,2024-01-10,david@example.com,Houston,599.98,Debit Card
