@@ -178,7 +178,7 @@ The system uses a multi-database approach:
 
 For an interactive, visual representation of the database schema, visit:
 
-🔗 **[View Interactive Schema on dbdiagram.io](https://dbdiagram.io/d/text2sql-analytics-schema)**
+🔗 **[View Interactive Schema on dbdiagram.io](https://dbdiagram.io/d/68e44bdfd2b621e4228cba1c)**
 
 ### dbdiagram.io Code
 
