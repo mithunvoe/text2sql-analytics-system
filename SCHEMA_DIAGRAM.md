@@ -1,5 +1,7 @@
 # Database Schema Diagram
 
+🔗 **[View Interactive Schema on dbdiagram.io](https://dbdiagram.io/d/68e44bdfd2b621e4228cba1c)**
+
 ## Text2SQL Analytics System Database Schema
 
 This document provides a comprehensive overview of the database schema used in the Text2SQL Analytics System, including both the Northwind sample database and the system's internal tables.
@@ -178,7 +180,6 @@ The system uses a multi-database approach:
 
 For an interactive, visual representation of the database schema, visit:
 
-🔗 **[View Interactive Schema on dbdiagram.io](https://dbdiagram.io/d/68e44bdfd2b621e4228cba1c)**
 
 ### dbdiagram.io Code
 
