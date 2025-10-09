@@ -428,10 +428,12 @@ Your task is to convert natural language questions into syntactically correct SQ
             result.error_message = error or "Failed to generate SQL"
             return result
         
-        result.generated_sql = sql
+        # Normalize SQL for backend-specific quirks (e.g., boolean vs integer flags)
+        normalized_sql = self._normalize_backend_sql(sql)
+        result.generated_sql = normalized_sql
         
         # Execute SQL
-        results, error, exec_time = self.execute_query(sql, db_connection)
+        results, error, exec_time = self.execute_query(normalized_sql, db_connection)
         result.execution_time = exec_time
         
         if error:
@@ -445,6 +447,27 @@ Your task is to convert natural language questions into syntactically correct SQ
         result.quality_metrics = self.analyze_query_quality(sql, exec_time)
         
         return result
+
+    def _normalize_backend_sql(self, sql: str) -> str:
+        """
+        Apply lightweight post-processing to align generated SQL with the
+        target database schema. This is intentionally conservative and
+        only fixes known safe literal mismatches.
+
+        - Convert boolean literals TRUE/FALSE to 1/0 when used in
+          comparisons (common in datasets where flags are stored as INT).
+        """
+        try:
+            fixed = sql
+            # Replace "= TRUE"/"= FALSE" (case-insensitive, with optional spaces)
+            fixed = re.sub(r"=\s*TRUE\b", "= 1", fixed, flags=re.IGNORECASE)
+            fixed = re.sub(r"=\s*FALSE\b", "= 0", fixed, flags=re.IGNORECASE)
+            # Replace "IS TRUE"/"IS FALSE" which may appear in predicates
+            fixed = re.sub(r"IS\s+TRUE\b", "= 1", fixed, flags=re.IGNORECASE)
+            fixed = re.sub(r"IS\s+FALSE\b", "= 0", fixed, flags=re.IGNORECASE)
+            return fixed
+        except Exception:
+            return sql
     
     def process_query_sqlite(
         self,

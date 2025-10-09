@@ -74,13 +74,33 @@ class DatabaseLayer:
             db_name = database or self.config.database
             
             if as_admin:
-                self.conn = psycopg2.connect(
-                    host=self.config.host,
-                    port=self.config.port,
-                    database=db_name,
-                    user=self.config.admin_user,
-                    password=self.config.admin_password
-                )
+                try:
+                    # Prefer TCP when a password is provided
+                    if self.config.admin_password:
+                        self.conn = psycopg2.connect(
+                            host=self.config.host,
+                            port=self.config.port,
+                            database=db_name,
+                            user=self.config.admin_user,
+                            password=self.config.admin_password
+                        )
+                    else:
+                        # Fallback to local peer auth via Unix socket by omitting host/port
+                        self.conn = psycopg2.connect(
+                            database=db_name,
+                            user=self.config.admin_user
+                        )
+                except psycopg2.OperationalError as e:
+                    # If peer auth fallback fails and a password exists, rethrow; otherwise try last-resort TCP without password
+                    if not self.config.admin_password and self.config.host:
+                        self.conn = psycopg2.connect(
+                            host=self.config.host,
+                            port=self.config.port,
+                            database=db_name,
+                            user=self.config.admin_user
+                        )
+                    else:
+                        raise
             else:
                 self.conn = psycopg2.connect(
                     host=self.config.host,

@@ -1,6 +1,6 @@
 # Database Schema Diagram
 
-🔗 **[View Interactive Schema on dbdiagram.io](https://dbdiagram.io/d/68e44bdfd2b621e4228cba1c)**
+🔗 **[View Interactive Schema on dbdiagram.io](https://dbdiagram.io/d/text2sql-analytics-schema/)**
 
 ## Text2SQL Analytics System Database Schema
 
